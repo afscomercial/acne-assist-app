@@ -1,5 +1,6 @@
 node_modules
 
+/.vscode
 /.cache
 /build
 /app/build
@@ -13,4 +14,4 @@ database.sqlite
 package-lock.json
 yarn.lock
 
-.vscode
+
